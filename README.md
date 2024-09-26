@@ -4,7 +4,7 @@
 ## Installation & Setup
 
 ```
-1) На выбор склонируйте проект через https | ssh:
+1) Clone the project via https | ssh:
 
 -- http: git clone https://github.com/zuekveer/TryCatch1.git
 
